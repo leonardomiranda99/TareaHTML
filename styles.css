@@ -1,0 +1,20 @@
+h1{ /*selector de tipo*/
+    color: rgb(101, 33, 209);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+h2{
+    color: chocolate;
+    font-family: 'Crimson Text', serif;
+}
+/*selector de clase
+selecciona elementos de clase especifica asignada*/
+.tipos-de-frio{
+    background-color: rgb(18, 20, 185);
+}
+/*selectores id
+nos permite seleccionar un elemento con identificador especifico*/
+#sabores{
+    color: red;
+}
+
